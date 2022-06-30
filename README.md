@@ -322,15 +322,15 @@ Upon completing the Express API you should have
 
 - Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Both of the labs this week definitely helped prepare me to complete the assignemnt. Specifically, both labs taught me a lot about how to use state variables as well as handler functions. For example, the Fast Food Feud Lab when we learned about clicking both the buttons to display the nutritional label taught me how to use state variables and the Twitter lab furthered my knowledge. I honestly felt pretty prepared to complete the weekly assignment it was just a bit overwhelming in regards to the structure.
+I think both of the labs this week were helpful as always but I thought the Gift Giver Lab was generally more helpful since it more closely mirrored what we were working on in our project. The practice with GET and POST requests was very useful and the Gift Giver Lab also taught me the typical way projects are structured to connect the backend/frontend. I thought it wasn't super clear the best way to actually test the new features we were implementing in the weekly assignment so it would have been nice if there was some added clarity in that sense.
 
 - If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
 
-If I had more time, I would have liked to add some additional styling specifically on the sidebar and the shopping cart/checkout form. I also would have liked to further format the product description page when it pops up.
+If I had more time I would've added some additional styling on the orders page as I don't think it looks as polished as the rest of my site. I also think it would be interesting to have a dropdown menu/radio buttons that allow the user to select what value to search by. Right now I just have search by email but it would be cool to also search by product in the cart, quantity, etc. 
 
 - Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Overall, the project demo went pretty well besides some of the small styling elements that I mentioned above. One element that I was pretty pleased with was the implementation of the search bar. Last week during Flixster I didn't have time/didn't really know how to make a search bar that searched as the user typed, but this week using state variables and passing the proper variables in as props allowed the search results to update as the user typed. Another small element that I was happy with was the displaying of the quantity of each product on the product card. I struggled a lot with using the appropriate setter functions but I ultimately learned a lot more about how React operates on a deeper level. The experience gave me a lot more debugging experience and also furthered my willingness to ask for help as both my peers and TAs were so helpful in finding the ultimate error!
+Overall I would say the project went pretty well and I was most pleased with how I was able to use the concepts I learned from implementing the product grid to help with implementing the orders page. Most of my peers this week all had similar features as we were mostly just working on the backend but one other feature that I think would have been interesting to complete would be changing the order that the products are displayed on the home screen based on some sort of ranking metric.
 
 ### Open-source libraries used
 
@@ -341,6 +341,4 @@ Overall, the project demo went pretty well besides some of the small styling ele
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
 
-Thank you to Vincent (our primary TA) for continuing to answer my endless questions. Thank you to Phineas and Yilika for also being incredibly helpful. Thanks to Lucas and Nicole for help with features and to my intern neighbor Kimberly for all of her help with CSS/styling.
-
-Thank you also to Mohan and Sunil for their continued support and bigger picture understanding of my internship as a whole!
+Thank you to Vincent (our primary TA) for continuing to answer my endless questions. Thank you to Phineas and Yilika for also being incredibly helpful. Thank you also to Mohan and Sunil for their continued support and bigger picture understanding of my internship as a whole!
