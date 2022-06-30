@@ -12,7 +12,8 @@ Project Demo Part 2.1
 
 Project Demo part 2.2
 
-![Uploading ezgif.com-gif-maker (5).gif…]()
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/26664975/176605903-d4605a73-ff11-47d4-8eed-9e8193599a41.gif)
+
 
 ## Week 2 Project Demos 
 
